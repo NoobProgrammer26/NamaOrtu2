@@ -5,10 +5,9 @@ if (anak == "") {
 }else if (anak == "GERALDI") {
 	alert("Haha, Bocahnya INGIN!")
 	papa = document.getElementById("dad").innerHTML = "INGIN!";
-	mama = document.getElementById("mom").innerHTML = "INGIN!";
+	mama = document.getElementById("mom").innerHTML = "Dian Suminar";
 	kdname = document.getElementById("an").innerHTML = anak
-	papa = document.getElementById("dad").style.color = "red";
-	mama = document.getElementById("mom").style.color = "red";
+	alert("Well, F**k you!")
 
 } else if (anak == "NAEL") {
 	papa = document.getElementById("dad").innerHTML = "Unknown/Another Error";
