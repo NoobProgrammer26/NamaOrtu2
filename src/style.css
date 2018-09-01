@@ -42,6 +42,7 @@ input {
 
 input {
 	font-family: Arial Black;
+	color:white;
 }
 
 #foot {
@@ -52,4 +53,8 @@ input {
 	border-top:5px dotted;
 	color:#edf6e9;
 	font-size:15px;
+}
+
+#child {
+	text-transform:captalize;
 }
