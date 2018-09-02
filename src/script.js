@@ -8,6 +8,11 @@ function ortu(){
 			document.getElementById("mother").innerHTML = "Shinta Dewatari";
 			document.getElementById("daddy").innerHTML = "Dapot Mangisi Siagian";
 			break;
+		case "geraldi":
+			document.getElementById("child").innerHTML = "Chadinar Geraldi Purnama";
+			document.getElementById("mother").innerHTML = "Dian Suminar";
+			document.getElementById("daddy").innerHTML = "-";
+			break;
 		case "nael":
 			document.getElementById("child").innerHTML = "Efran Nathanael";
 			document.getElementById("mother").innerHTML = "Deni Rivanti";
