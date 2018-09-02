@@ -106,13 +106,18 @@ function ortu(){
 			break;
 		case "stevi":
 			document.getElementById("child").innerHTML = "Stevi";
-			document.getElementById("mother").innerHTML = "Evilnda";
+			document.getElementById("mother").innerHTML = "Evlinda";
 			document.getElementById("daddy").innerHTML = "-";
 			break;
 		case "julius":
 			document.getElementById("child").innerHTML = "Julius Adhi Prawara";
-			document.getElementById("mother").innerHTML = "";
-			document.getElementById("daddy").innerHTML = "";
+			document.getElementById("mother").innerHTML = "Pupuh Sri Rahayu";
+			document.getElementById("daddy").innerHTML = "Dedi";
+			break;
+		case "angel":
+			document.getElementById("child").innerHTML = "Angel";
+			document.getElementById("mother").innerHTML = "Yuliana Sembel";
+			document.getElementById("daddy").innerHTML = "Djengkar Subagyo";
 			break;
 		case "karin":
 			document.getElementById("child").innerHTML = "Karin";
