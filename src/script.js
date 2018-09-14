@@ -137,7 +137,7 @@ function ortu(){
 		case "tyo":
 			document.getElementById("child").innerHTML = "Krisantio Nugroho";
 			document.getElementById("mother").innerHTML = "Sri Hartuti";
-			document.getElementById("daddy").innerHTML = "-";
+			document.getElementById("daddy").innerHTML = "Gunawan";
 			break;
 		case "harry":
 			document.getElementById("child").innerHTML = "Harry Sugianto";
@@ -151,7 +151,7 @@ function ortu(){
 			break;
 		case "nagita":
 			document.getElementById("child").innerHTML = "Nagita Purnamasari";
-			document.getElementById("mother").innerHTML = "Vievie Ferawati";
+			document.getElementById("mother").innerHTML = "Vivi Ferawati";
 			document.getElementById("daddy").innerHTML = "Agus";
 			break;
 		case null:
