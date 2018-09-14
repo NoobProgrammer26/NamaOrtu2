@@ -25,7 +25,7 @@ function ortu(){
 			break;
 		case "enos":
 			document.getElementById("child").innerHTML = "Enos Garcia Karosekali";
-			document.getElementById("mother").innerHTML = "Erwina";
+			document.getElementById("mother").innerHTML = "Erwina Pelawi";
 			document.getElementById("daddy").innerHTML = "James Karosekali";
 			break;
 		case "fitrah":
